@@ -14,7 +14,7 @@ Haz clic en el signo "+" para agregar una nueva dependencia.
 
 Desde ahí, escoge la primera opción ( Jar o directorios ) y abre el archivo Jar que le fue enviado, haz click en "apply" y después en "Ok" tras estos pasos, el archivo Json ya estará bien añadido 
 
-
+Nuestro patrón de diseño empleado fue el patrón conocido como Facade o Fachada, la clase Game_P reune varias clases del proyecto y las utiliza, el cliente usará la función Game_P en vez de las otras clases por individual. 
 
 Nuestro trabajo consta de un juego de carreras, popularmente conocido como "drag racing" 
 
